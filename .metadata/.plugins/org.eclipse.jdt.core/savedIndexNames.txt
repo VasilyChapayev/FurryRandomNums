@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/Users/FurryFaust/Desktop/ANDROID PROJECT/.metadata/.plugins/org.eclipse.jdt.core
+3486639007.index
+1933681973.index
+2316045254.index
+3270238868.index
+1270315800.index
